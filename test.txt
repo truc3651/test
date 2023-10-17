@@ -1,3 +1,4 @@
 hello
 updated
 feature1
+feature2
